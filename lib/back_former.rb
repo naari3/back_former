@@ -1,3 +1,4 @@
+# frozen_string_literal: true
+
 module BackFormer
-  # Your code goes here...
 end
