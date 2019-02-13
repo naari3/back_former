@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    back_former (0.1.0)
+    back_former (0.1.1)
       rails (~> 5.1.6)
 
 GEM
