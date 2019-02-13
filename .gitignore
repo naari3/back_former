@@ -9,6 +9,5 @@ spec/dummy/tmp/
 .DS_Store
 *.gem
 *.rbc
-Gemfile.lock
 gemfiles/*.lock
 coverage

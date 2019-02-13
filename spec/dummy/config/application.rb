@@ -15,6 +15,7 @@ require 'sprockets/railtie'
 Bundler.require(*Rails.groups)
 require 'back_former'
 
+
 module Dummy
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
